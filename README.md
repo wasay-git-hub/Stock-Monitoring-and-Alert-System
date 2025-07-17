@@ -43,8 +43,8 @@ This project automatically monitors daily closing prices of a chosen stock (defa
 
 3. Get API Keys:
 
-Alpha Vantage API key
-NewsAPI key
-Twilio Account SID & Auth Token
+Alpha Vantage API key<br>
+NewsAPI key<br>
+Twilio Account SID & Auth Token<br>
 
-4. Update the main.py file with your API keys, Twilio credentials, and phone numbers.
+4. Update the `main.py` file with your API keys, Twilio credentials, and phone numbers.
