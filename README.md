@@ -37,14 +37,15 @@ This project automatically monitors daily closing prices of a chosen stock (defa
    ```
    
 2. Install dependencies:
-  ```bash
-  pip install requests twilio
-  ```
+   ```bash
+      pip install requests twilio
+   ```
 
 3. Get API Keys:
-
+   ```bash
    Alpha Vantage API key<br>
    NewsAPI key<br>
    Twilio Account SID & Auth Token<br>
-
+   ```
+   
 4. Update the `main.py` file with your API keys, Twilio credentials, and phone numbers.
